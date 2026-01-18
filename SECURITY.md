@@ -14,7 +14,7 @@ Instead, please report them via one of the following methods:
 
 ### Option 1: GitHub Security Advisories (Preferred)
 
-Use [GitHub's private vulnerability reporting](/security/advisories/new)
+Use [GitHub's private vulnerability reporting](../../security/advisories/new)
 to submit a report directly.
 
 ### Option 2: Email
@@ -46,7 +46,7 @@ information or guidance.
 This security policy applies to:
 
 - The project's CLI tool
-- The project's [source](/)
+- The project's [source](../../)
 - Official distribution channels (crates.io, GitHub releases)
 
 ## Security Best Practices
